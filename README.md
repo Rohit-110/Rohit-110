@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-Btech-IT(sophomore), Developer, Competitve Programmer
+<h2>Btech-IT(sophomore), Developer, Competitve Programmer</h2>
 
 
 ## 🌐 Socials:
