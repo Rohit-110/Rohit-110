@@ -23,4 +23,4 @@
 [![](https://visitcount.itsvg.in/api?id=Rohit-110&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 📊 Recent Contributing Graph:-
-<a href="https://github.com/rohit-110/github-readme-activity-graph"></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohit-110)](https://github.com/rohit-110/github-readme-activity-graph)
