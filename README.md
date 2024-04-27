@@ -11,6 +11,9 @@
 <a href="/rohit-110/rohit-110/blob/main/rohitpandeyrp01@gmail.com">
   <img src="https://camo.githubusercontent.com/57b5f72e307eb1c998ed0182a94b9c99fd06d52de29b8bf76daf455c79ca6075/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f474d61696c2d7265643f6c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/GMail-red?logo=gmail&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
     </a>
+<a href="https://www.instagram.com/rohitpandey04/" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/cb9756b1cd66fb40972a8ba246799dacf02d285f76d215f26db2cb6ea789cc9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d707572706c653f6c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/Instagram-purple?logo=instagram&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
+    </a>
 
 
 # 📊 GitHub Stats:
